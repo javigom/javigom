@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javier Gómez</h1>
-<h3 align="center">Full-Stack Developer from Madrid</h3>
+<h3 align="center">Technical Development Leader from Madrid</h3>
 
 - 💼 I’m currently working at **Zalcu**
 
